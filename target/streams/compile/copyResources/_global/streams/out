@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\YS1607131010\Desktop\music-shop-application\src\main\resources\application.conf,C:\Users\YS1607131010\Desktop\music-shop-application\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\YS1607131010\Desktop\music-shop-application\src\main\resources\db\migration\V1__create_table.sql,C:\Users\YS1607131010\Desktop\music-shop-application\target\scala-2.13\classes\db\migration\V1__create_table.sql)
+[debug] 	(C:\Users\YS1607131010\Desktop\music-shop-application\src\main\resources\db\migration\V2__add_zonedDateTime_table.sql,C:\Users\YS1607131010\Desktop\music-shop-application\target\scala-2.13\classes\db\migration\V2__add_zonedDateTime_table.sql)

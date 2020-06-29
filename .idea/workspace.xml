@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4082813c-270a-4464-8a59-3ec8487a9c7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aLQAY6VBCfG9L89alty6rjKpUG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Scala/henry" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YS1607131010\Desktop\music-shop-application\src\main\resources\db\migration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="music-shop-application" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="music-shop-application [file:/C:/Users/YS1607131010/Desktop/music-shop-application/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="music-shop-application-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../ScalaOpenSource/iheartradio/iHeartOSS.g8" value="1469739315578" />
+        <entry key="$PROJECT_DIR$/../addHotel17APR16" value="1492422728915" />
+        <entry key="$PROJECT_DIR$/../building-routes" value="1518267694037" />
+        <entry key="$PROJECT_DIR$/../defing-actions" value="1517519680936" />
+        <entry key="$PROJECT_DIR$/../exploring-views" value="1519503847932" />
+        <entry key="$PROJECT_DIR$/../getting-started-play-scala" value="1514905963446" />
+        <entry key="$PROJECT_DIR$" value="3173293759956" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2113183344" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
+        <entry key="$PROJECT_DIR$/../myFirstAPI" value="1481057238664" />
+        <entry key="$PROJECT_DIR$/../myblog" value="1500402254017" />
+        <entry key="$PROJECT_DIR$/../sampleApp" value="1516460882666" />
+        <entry key="$USER_HOME$/Documents/Play/Books/eBooks (brought)/Code Files/RESTful Web Services with Scala" value="1451301572000" />
+        <entry key="$USER_HOME$/Documents/Play/ChatApp2/ChatApp2" value="1474204828467" />
+        <entry key="$USER_HOME$/Documents/Play/favourites-service" value="1481573339427" />
+        <entry key="$USER_HOME$/Documents/Play/hotel-service" value="1513542398079" />
+        <entry key="$USER_HOME$/Documents/Play/play-rest-api" value="2963967189704" />
+        <entry key="$USER_HOME$/Documents/Play/play-sample-chat" value="1474484952759" />
+        <entry key="$USER_HOME$/Documents/Scala/exercises-fpinscala" value="1530972916521" />
+        <entry key="$USER_HOME$/FirstPlayApp" value="1469962987246" />
+        <entry key="$USER_HOME$/HotelRes1" value="1473002120175" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../help-to-save" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../http4s-mongo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../music-shop-http4s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../myfirsthttp4s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-samples/play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wardrobe-management-web-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wardrobe-management-web-service-frontend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4082813c-270a-4464-8a59-3ec8487a9c7d" name="Default Changelist" comment="" />
+      <created>1586512251324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586512251324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591443969818">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.683@0.0.1280.683" timestamp="1591443969818" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586785704716">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.683@0.0.1280.683" timestamp="1586785704716" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1591442918549">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.683@0.0.1280.683" timestamp="1591442918549" />
+    <state x="91" y="65" key="new project wizard" timestamp="1587201946167">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="91" y="65" key="new project wizard/0.0.1280.683@0.0.1280.683" timestamp="1587201946167" />
+  </component>
+</project>
